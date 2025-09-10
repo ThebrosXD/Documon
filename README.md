@@ -1,4 +1,4 @@
-# app_documon
+# Documon
 
 Un proyecto creado para buscar información basica de los pokemones
 
